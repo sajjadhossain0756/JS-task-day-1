@@ -35,4 +35,11 @@ console.log("I have got total Number =" + " " + totalNumbers);
 var averageNumber = totalNumbers / totalSubject;
 console.log("I have got average Number is =" + " " + averageNumber.toFixed(2));
 
+// task-3 start here
+// given number is
+var number = 119;
+// reminder number is 4
+var reminderNumber = number % 5;
+console.log("the reminder number is =" + " " + reminderNumber);
+
 
